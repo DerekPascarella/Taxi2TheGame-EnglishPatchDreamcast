@@ -49,16 +49,6 @@ Find me on...
 | release would not have been possible.  Or, at best, it would have been
 | massively delayed.
 |
-| It's worth noting that there are a few instances where short audio clips of
-| spoken French play during each level, and for now these will stay as is.  I
-| have no intentions of hiring voice actors, and currenty I'm not able to
-| display subtitles on screen during those moments.
-|
-| The only other untranslated aspect to this game is a warning message that pops
-| up when driving the wrong direction.  The message is in French ("Mauvaise
-| Direction") and try as I might, I was unable to successfully locate this text
-| and/or asset to make the necessary modifications.
-|
 | I would also like to extend my sincerest gratitude to Patrick "TraynoCo"
 | Traynor for re-encoding all of the FMVs with English subtitles.  Your
 | contribution was huge!

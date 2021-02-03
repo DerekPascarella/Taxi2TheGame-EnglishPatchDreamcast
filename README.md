@@ -1,3 +1,4 @@
+<pre>
 Taxi 2 - The Game (Taxi 2 - Le Jeu)
 English Translation v1.0
 
@@ -93,3 +94,4 @@ Find me on...
 |      -Initial release.
 |
 `---------------------------------------------------
+</pre>

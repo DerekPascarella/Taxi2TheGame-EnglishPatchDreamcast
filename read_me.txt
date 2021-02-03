@@ -22,6 +22,27 @@ Find me on...
  -> Reddit: https://www.reddit.com/user/ate4m/
 
 
+.-----------::[ Patching Instructions ]::-----------
+|
+| 1) Copy TOSEC-style GDI files (gdi+raws+bins) to the "gdi" folder.
+|
+| 2) Drag the "gdi" folder onto the "extract_gdi.bat" file.  A new folder called
+|    "gdi Extracted" will be created.  This folder contains all of the data files
+|    from the game.
+|
+| 3) Copy all of the files from the "patched_files" folder to the "gdi Extracted"
+|    folder, choosing to overwrite existing files when prompted.
+|
+| 4) Drag the "gdi Extracted" folder onto the "build_gdi.bat" file.  A small black
+|    window will open stating that the GDI build process has begun.  Once it has
+|    completed, a success message will appear before the window automatically
+|    closes after a few seconds.
+|
+| 5) The GDI files (gdi+raws+bins) in the "gdi" folder are now ready for use.
+|
+`---------------------------------------------------
+
+
 .------------::[ v1.0 Release Notes ]::-------------
 |
 | As far as I can tell, "Taxi 2 - The Game" is the only French-exclusive

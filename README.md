@@ -1,6 +1,12 @@
 #### Download this patch in DCP format for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a>:
-  * <a href="https://drive.google.com/u/0/uc?id=1hqEChnjRAiwIBR2NKWoSUPLrB99rZJ3N&export=download">Taxi 2 - The Game (English v1.0).dcp</a>
-<br>
+- <a href="https://drive.google.com/uc?export=download&id=1L6l1BfSLENLOsmbgjDewHAUsTKiQP6L2">Taxi 2 - The Game (English v1.1).dcp</a>
+
+**Changelog**
+- v1.1 (2026-10-14)
+  - Last remaining French texture saying "Mauvaise Direction" replaced with English "Wrong Direction".
+
+Note that the original release notes are preserved below.
+
 <pre>
 Taxi 2 - The Game (Taxi 2 - Le Jeu)
 English Translation v1.0

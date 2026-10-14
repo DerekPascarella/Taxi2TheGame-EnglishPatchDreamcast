@@ -2,7 +2,7 @@
 - <a href="https://drive.google.com/uc?export=download&id=1L6l1BfSLENLOsmbgjDewHAUsTKiQP6L2">Taxi 2 - The Game (English v1.1).dcp</a>
 
 **Changelog**
-**- Version 1.1 (2026-10-14)**
+- **Version 1.1 (2026-10-14)**
   - Last remaining French texture saying "Mauvaise Direction" replaced with English "Wrong Direction".
 
 Note that the original release notes are preserved below.
